@@ -1,5 +1,5 @@
 ﻿### Daehwa Kim
  
-Hi, I am a 3rd-year PhD student at [Future Interfaces Group](http://figlab.com/) in Carnegie Mellon University. :fire: Formerly, I completed my Masters at [KAIST HCI Lab](https://hcil.kaist.ac.kr/). My research goal is to enrich the expressiveness and degrees of freedom of interfaces so that they create new and pleasant experiences for users. My research interests lie in sensing technologies, sensor fabrication, and AR/VR/MR interfaces.
+Hi, I am a 3rd-year PhD student at [Future Interfaces Group](http://figlab.com/) in Carnegie Mellon University. :fire: Formerly, I interned in Apple AIML Robotics (2024), Meta Reality Labs (2023). I also completed my Masters at [KAIST HCI Lab](https://hcil.kaist.ac.kr/). My research explores the intersection of Human-Computer Interaction, Sensing, and Machine Learning.
 
-I presented several projects at ACM CHI and UIST and have received Honorable Mention awards at CHI. Please visit [my website](https://daehwa.github.io/) and take a look!
+I have presented several projects at ACM CHI and UIST and received two Best Paper nominations at CHI. Please visit [my website](https://daehwa.github.io/) and take a look!
